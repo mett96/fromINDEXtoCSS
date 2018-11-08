@@ -1,4 +1,4 @@
-# fromTXTtoCSS
+# fromINDEXtoCSS
 This script allows to transform a ordinated **index into CSS** ordered in the same way. 
 
 Each section in the index is seperated by a commented line. 
