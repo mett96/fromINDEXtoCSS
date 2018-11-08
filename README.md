@@ -1,8 +1,10 @@
 # fromINDEXtoCSS
 This script allows to transform a ordinated **index into CSS** ordered in the same way. 
 
-Each section in the index is seperated by a commented line. 
+Each section in the index is seperated by a commented line.     
 The _title_ uses '=' to highlight and the _subtitle_ uses '*'
+<br>
+
 ![screenshot](screenshot.png)
 
 ## Version 1.0
